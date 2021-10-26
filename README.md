@@ -8,4 +8,4 @@ https://docs.google.com/document/d/1SU0R0DhbQ1xSrNKzOalQASP9JvncLS90CX-LoyP5HLo/
 
 
 sample result: 
-![alt text](https://github.com/MaryamOmar/bitewing_model/sample.png?raw=true)
+![alt text](https://github.com/MaryamOmar/bitewing_model/blob/main/sample.png?raw=true)
