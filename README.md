@@ -8,4 +8,4 @@ https://docs.google.com/document/d/1SU0R0DhbQ1xSrNKzOalQASP9JvncLS90CX-LoyP5HLo/
 
 
 sample result: 
-![alt text](https://github.com/MaryamOmar/bitewing_model/Screen Shot 2021-07-29 at 6.19.52 PM.png?raw=true)
+![alt text](https://github.com/MaryamOmar/bitewing_model/sample.png?raw=true)
